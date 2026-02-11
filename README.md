@@ -25,7 +25,7 @@ Furthermore, this theory can be implemented at scales smaller than the nation-st
 
 In this structure, there is no need to retain humans through coercion. If a system is rational and does not violate one's life plan, people will naturally congregate. Good systems attract people; bad systems are deselected. This is not a competition between humans, but a comparison of the **logical durability** of systems.
 
-The ****, defined in this paper, is the minimum personal connection point allowing humans to cross between these multiple AI models to lodge objections, migrate, or engage in dialogue. It is neither power nor privilege, but merely a technical and ethical apparatus to guarantee the possibility of choice.
+The Logos-Access Point, defined in this paper, is the minimum personal connection point allowing humans to cross between these multiple AI models to lodge objections, migrate, or engage in dialogue. It is neither power nor privilege, but merely a technical and ethical apparatus to guarantee the possibility of choice.
 
 Furthermore, this paper does not deny the freedom to reject AI governance. Participation, objection, and migration are all matters of free choice; the freedom of those who choose not to participate is fully protected.
 
